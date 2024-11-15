@@ -1,0 +1,1 @@
+# Serverless-AI-Model-Deployment-Using-Amazon-Bedrock-API-Gateway-AWS-Lambda-and-Postman-API
